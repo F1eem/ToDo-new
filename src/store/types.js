@@ -1,0 +1,5 @@
+export const CHANGE_COMPLETED = "LIST/CHANGE_COMPLETED";
+export const DELETE_ITEM = "LIST/DELETE_ITEM";
+export const ADD_ITEM = "LIST/ADD_ITEM";
+export const EDIT_ITEM = "LIST/EDIT_ITEM";
+export const DELETE_ALL = "LIST/DELETE_ALL";
